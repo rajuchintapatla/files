@@ -1,0 +1,28 @@
+git branch -> list of branchs
+
+git branch todolist -> creates a branch todolist
+
+git checkout todolist -> going to todolist branch
+
+-> make changes
+
+git add .
+
+git commit -m "message"
+
+git push origin todolist -> push to branch todolist
+
+create pull request
+
+after merge
+
+git checkout master
+
+git fetch upstream
+
+git merge upstream/master
+
+git push origin  master
+
+
+git branch -D todolist
